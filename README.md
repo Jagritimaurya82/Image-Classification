@@ -8,12 +8,23 @@ Firstly, we will implement a multilayer perceptron (MLP), then proceed with arch
 
 # Getting Started
 To install PyTorch, see installation instructions on the [PyTorch](https://pytorch.org/) website.
-The instructions to install PyTorch should also detail how to install torchvision but can also be installed via:
+The instructions to install PyTorch should also detail how to install torchvision but can also be installed using Python Package Index (PyPI):<br>
+Install torchvision :[`pip install torchvision`](https://pypi.org/project/torchvision/)<br>
+Install matplotlib :[`pip install matplotlib`](https://pypi.org/project/matplotlib/)<br>
+Install scikit-learn :[`pip install scikit-learn`](https://pypi.org/project/scikit-learn/)<br>
+Install numpy :[`pip install numpy`](https://pypi.org/project/numpy/)<br>
+ 
+ 
 
 
 # Tutorials
+## 1-Multilayer Perceptron 
+In this tutorial, you will be introduced to PyTorch and TorchVision, and learn various techniques such as loading datasets, data augmentation, creating a multilayer perceptron (MLP), training the model, observing the outputs, visualizing the model's representations, and examining the model's weights. The tutorial will be demonstrated using the MNIST dataset which consists of 28x28 grayscale images of handwritten digits.
 
 
 
 
 # References
+While creating these tutorials, I referred to some resources, which might not be up-to-date now. Here is a list of those resources.
+* [https://github.com/pytorch/tutorials](https://github.com/pytorch/tutorials)
+* [https://github.com/pytorch/examples](https://github.com/pytorch/examples)

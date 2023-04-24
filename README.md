@@ -18,7 +18,8 @@ Install numpy :[`pip install numpy`](https://pypi.org/project/numpy/)<br>
 
 
 # Tutorials
-## 1-Multilayer Perceptron 
+## 1-[Multilayer Perceptron](https://github.com/Jagritimaurya82/Image-Classification/blob/main/1_MLP_MNIST.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/1_MLP_MNIST.ipynb)
+ 
 In this tutorial, you will be introduced to PyTorch and TorchVision, and learn various techniques such as loading datasets, data augmentation, creating a multilayer perceptron (MLP), training the model, observing the outputs, visualizing the model's representations, and examining the model's weights. The tutorial will be demonstrated using the MNIST dataset which consists of 28x28 grayscale images of handwritten digits.
 
 

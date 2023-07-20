@@ -34,10 +34,16 @@ AlexNet is a deep convolutional neural network architecture that was introduced 
 Architecture: AlexNet is a deep neural network consisting of eight layers. The first five layers are convolutional layers, followed by three fully connected layers
 
 
-## 3-[VGG](https://github.com/Jagritimaurya82/Image-Classification/blob/main/4_VGG_Kaggle_CUB200.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/4_VGG_Kaggle_CUB200.ipynb)
+## 4-[VGG](https://github.com/Jagritimaurya82/Image-Classification/blob/main/4_VGG_CIFAR10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/4_VGG_CIFAR10.ipynb)
 
 VGG, short for Visual Geometry Group, is a deep convolutional neural network architecture proposed by researchers from the University of Oxford in 2014. The VGG architecture is known for its simplicity and uniformity, and it played a significant role in advancing the field of computer vision by achieving outstanding performance on image recognition tasks.
 The main idea behind VGG is to use very small convolutional filters (3x3) with a relatively deep architecture to learn hierarchical representations of visual features from input images.
+
+## 5-[ResNet](https://github.com/Jagritimaurya82/Image-Classification/blob/main/5_ResNet_Kaggle_CUB200.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/5_ResNet_Kaggle_CUB200.ipynb)
+
+
+ResNet, short for Residual Neural Network, is a deep convolutional neural network architecture proposed by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun from Microsoft Research in 2015. ResNet was a breakthrough in the field of computer vision and addressed the vanishing gradient problem associated with training very deep neural networks. It achieved state-of-the-art performance in various image recognition tasks and has been widely adopted in many other computer vision applications.
+The key innovation in the ResNet architecture is the use of residual blocks, which allow the network to learn residual functions instead of directly learning the underlying mapping. The residual blocks help in training extremely deep networks effectively by enabling the flow of gradients through shortcut connections.
 
 
 

@@ -24,7 +24,11 @@ Training a Multilayer Perceptron (MLP) on the MNIST dataset is a common introduc
  
  
 
-## 1-[LeNet](https://github.com/Jagritimaurya82/Image-Classification/blob/main/1_LeNet_MNIST.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/1_LeNet_MNIST.ipynb)
+## 2-[LeNet](https://github.com/Jagritimaurya82/Image-Classification/blob/main/1_LeNet_MNIST.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/1_LeNet_MNIST.ipynb)
+
+LeNet, also known as LeNet-5, is a pioneering convolutional neural network (CNN) architecture developed by Yann LeCun, Leon Bottou, Yoshua Bengio, and Patrick Haffner in 1998. It was designed for handwritten digit recognition and is considered one of the early successful CNN models. LeNet played a crucial role in popularizing the use of neural networks for computer vision tasks. The architecture is relatively simple compared to modern CNNs. It consist of two convolutional layers, each followed by a subsampling layer, and then three fully connected linear layes.
+
+## 3-[AlexNet](https://github.com/Jagritimaurya82/Image-Classification/blob/main/3_AlexNet_CIFAR10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/3_AlexNet_CIFAR10.ipynb)
 
 AlexNet is a deep convolutional neural network architecture that was introduced by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton in 2012. It won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012, marking a significant breakthrough in computer vision and deep learning. The architecture was named after Alex Krizhevsky, one of the main authors.
 Architecture: AlexNet is a deep neural network consisting of eight layers. The first five layers are convolutional layers, followed by three fully connected layers

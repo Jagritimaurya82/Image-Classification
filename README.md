@@ -34,6 +34,11 @@ AlexNet is a deep convolutional neural network architecture that was introduced 
 Architecture: AlexNet is a deep neural network consisting of eight layers. The first five layers are convolutional layers, followed by three fully connected layers
 
 
+## 3-[VGG](https://github.com/Jagritimaurya82/Image-Classification/blob/main/4_VGG_Kaggle_CUB200.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/4_VGG_Kaggle_CUB200.ipynb)
+
+VGG, short for Visual Geometry Group, is a deep convolutional neural network architecture proposed by researchers from the University of Oxford in 2014. The VGG architecture is known for its simplicity and uniformity, and it played a significant role in advancing the field of computer vision by achieving outstanding performance on image recognition tasks.
+The main idea behind VGG is to use very small convolutional filters (3x3) with a relatively deep architecture to learn hierarchical representations of visual features from input images.
+
 
 
 # References

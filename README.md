@@ -19,10 +19,15 @@ Install numpy :[`pip install numpy`](https://pypi.org/project/numpy/)<br>
 
  
 ## 1-[Multilayer Perceptron](https://github.com/Jagritimaurya82/Image-Classification/blob/main/1_MLP_MNIST.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/1_MLP_MNIST.ipynb)
+
+Training a Multilayer Perceptron (MLP) on the MNIST dataset is a common introductory task in the field of deep learning and computer vision. The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0 to 9) and is widely used for digit recognition tasks. Here's a step-by-step guide to train an MLP on the MNIST dataset using Python and popular deep learning libraries like TensorFlow and Keras:
  
-In this tutorial, you will be introduced to PyTorch and TorchVision, and learn various techniques such as loading datasets, data augmentation, creating a multilayer perceptron (MLP), training the model, observing the outputs, visualizing the model's representations, and examining the model's weights. The tutorial will be demonstrated using the MNIST dataset which consists of 28x28 grayscale images of handwritten digits.
+ 
 
 ## 1-[LeNet](https://github.com/Jagritimaurya82/Image-Classification/blob/main/1_LeNet_MNIST.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jagritimaurya82/Image-Classification/blob/main/1_LeNet_MNIST.ipynb)
+
+AlexNet is a deep convolutional neural network architecture that was introduced by Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton in 2012. It won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) in 2012, marking a significant breakthrough in computer vision and deep learning. The architecture was named after Alex Krizhevsky, one of the main authors.
+Architecture: AlexNet is a deep neural network consisting of eight layers. The first five layers are convolutional layers, followed by three fully connected layers
 
 
 

@@ -4,7 +4,7 @@ This repository contains tutorials covering image classification using [PyTorch]
 
 Firstly, we will implement a multilayer perceptron (MLP), then proceed with architectures that utilize convolutional neural networks (CNNs) such as [LeNet](http://yann.lecun.com/exdb/lenet/), [AlexNet](https://www.mathworks.com/help/deeplearning/ref/alexnet.html), [VGG](https://towardsdatascience.com/vgg-neural-networks-the-next-step-after-alexnet-3f91fa9ffe2c), and [ResNet](https://arxiv.org/abs/1512.03385).
 
-#### Don't hesitate to [submit an issue](https://github.com/Jagritimaurya82/Image-Classification/issues) if you find any mistakes or disagree with any of the explanations. I'm open to feedback, whether it's positive or negative!
+ 
 
 # Getting Started
 To install PyTorch, see installation instructions on the [PyTorch](https://pytorch.org/) website.
